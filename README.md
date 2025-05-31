@@ -31,6 +31,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/maryanyany/maryanyany/output/snake.svg" alt="Snake animation" />
-
-###
